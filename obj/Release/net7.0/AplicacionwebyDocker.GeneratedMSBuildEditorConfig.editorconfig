@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AplicacionwebyDocker
+build_property.RootNamespace = AplicacionwebyDocker
+build_property.ProjectDir = C:\Users\Pablo\Desktop\8 S\1 Desarrollo Web\tareas\AplicacionwebyDocker\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Pablo\Desktop\8 S\1 Desarrollo Web\tareas\AplicacionwebyDocker
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-h0zbbeutld
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9x01l80tvi
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudEmpleado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZEVtcGxlYWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudEmpleado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZEVtcGxlYWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudEmpleado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZEVtcGxlYWRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudEmpleado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZEVtcGxlYWRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudEmpleado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZEVtcGxlYWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudPuesto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZFB1ZXN0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudPuesto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZFB1ZXN0b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudPuesto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZFB1ZXN0b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudPuesto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZFB1ZXN0b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/crudPuesto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3J1ZFB1ZXN0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pablo/Desktop/8 S/1 Desarrollo Web/tareas/AplicacionwebyDocker/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
